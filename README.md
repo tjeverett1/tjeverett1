@@ -2,9 +2,7 @@
 
 ### AI & Computational Biology | MEng Researcher at MIT
 
-I am an AI engineer and MEng student at MIT with a deep focus on the intersection of machine learning, computational biology, and molecular biophysics. My work centers on leveraging AI and molecular dynamics to solve complex biological problems, from modeling protein structural stability to automating pharmaceutical reporting pipelines.
-
-I am a strong advocate for transparent, highly collaborative workflows, preferring whole-group communication to keep engineering and research teams perfectly aligned.
+I am an AI engineer and MEng student at MIT with a focus on the intersection of machine learning, computational biology, and molecular biophysics. My work centers on leveraging AI and molecular dynamics to solve complex biological problems, from modeling protein structural stability to automating pharmaceutical reporting pipelines.
 
 ---
 
