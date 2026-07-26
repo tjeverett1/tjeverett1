@@ -42,4 +42,4 @@ If you are building something meaningful, let's connect.
 
 * **Email:** tjeveret [at] mit [dot] edu
 * **Website:** https://tessaeverett.com/
-* **LinkedIn:** linkedin.com/in/tessa-everett
+* **LinkedIn:** www.linkedin.com/in/tessa-everett/
